@@ -2,4 +2,6 @@ Macam-macam Genre film
 1. Drama, Film drama adalah jenis film yang menghadirkan konflik drama dari beberapa tokoh yang ada di dalamnya.
 2. Action, Film action atau film aksi laga merupakan jenis film yang menghadirkan aksi laga dan pertarungan di dalamnya.
 3. Komedi, Film komedi (comedy) merupakan jenis film yang tujuannya adalah membuat penonton tertawa.
+4. Romance, Film romance merupakan jenis film yang berfokus pada kisah cinta atau hubungan tertentu.
+5. Fantasy, Film fantasy merupakan jenis film yang setting dan karakternya bersifat imajinatif di luar nalar manusia.
 
